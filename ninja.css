@@ -1,0 +1,18 @@
+div{
+    width: 1200px;
+    height: 250px;
+    background-color: #EBD8B4;
+}
+img{
+    display: inline-block;
+    margin: 10px 5px;
+}
+
+button{
+    padding: 20px;
+    background-color: #1ECAE9;
+    border-radius: 8px;
+    margin-left: 520px;
+    font-size: 30px;
+    color: #F0ECEC;
+}
